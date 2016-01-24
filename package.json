@@ -1,0 +1,25 @@
+{
+  "name": "tunet-history",
+  "version": "1.0.0",
+  "description": "清华校园网上网明细统计分析",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lizy14/tunet-history.git"
+  },
+  "author": "Zhaoyang",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/lizy14/tunet-history/issues"
+  },
+  "homepage": "https://github.com/lizy14/tunet-history#readme",
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "crypto": "0.0.3",
+    "csv": "^0.4.6",
+    "superagent": "^1.7.1"
+  }
+}
